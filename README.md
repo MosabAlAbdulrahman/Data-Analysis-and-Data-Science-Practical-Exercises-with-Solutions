@@ -24,11 +24,12 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |[Exporting](#Expoting)|
 
 ### [Getting and knowing]
-[Chipotle] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Chipotle] 
 
-[Occupation]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Occupation]
 
-[World Food Facts]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [World Food Facts]
+
 
 
 ### [Filtering and Sorting]
@@ -109,4 +110,8 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 Video tutorials of data scientists working through the above exercises:
 
 [Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
 

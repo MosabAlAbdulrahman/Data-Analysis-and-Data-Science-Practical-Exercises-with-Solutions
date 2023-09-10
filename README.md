@@ -39,13 +39,13 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 
 [Fictional Army]
 
-### [Grouping]
+### Grouping
 
-[Alcohol Consumption]
+    1- Alcohol Consumption
 
-[Occupation] 
+    2- Occupation 
 
-[Regiment]
+    3- Regiment
 
 
 ### [Apply]

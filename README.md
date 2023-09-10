@@ -1,7 +1,7 @@
 # Data-Analysis-and-Data-Science-Practical-Exercises-with-Solutions
 An amazing collection of practical exercises on Data Analysis and Data Science in Python with the Solutions to improve your skills .
 
-# Pandas Exercises
+
 
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
 Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
@@ -21,54 +21,89 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
 |[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |[Time Series](#time-series)|
 |[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Deleting](#deleting)       |
-|[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
-|[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
+|[Grouping](#grouping)							  | [Visualization](#visualization)                |[Indexing](#Indexing)           |
+|[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |[Exporting](#Expoting)|
 
 ### [Getting and knowing]
 [Chipotle] 
+
 [Occupation]
+
 [World Food Facts]
 
+
 ### [Filtering and Sorting]
+
 [Chipotle]
+
 [Euro12]
+
 [Fictional Army]
+
 ### [Grouping]
+
 [Alcohol Consumption]
+
 [Occupation] 
+
 [Regiment]
 
+
 ### [Apply]
+
 [Students Alcohol Consumption]  
+
 [US_Crime_Rates]   
 
+
 ### [Merge]
+
 [Auto_MPG]
+
 [Fictitious Names]
+
 [House Market]
 
+
 ### [Stats]
+
 [US_Baby_Names]
+
 [Wind_Stats]
 
+
 ### [Visualization]
+
 [Chipotle]
+
 [Titanic Disaster]
+
 [Scores]
+
 [Online Retail]
+
 [Tips]
 
+
 ### [Creating Series and DataFrames]
+
 [Pokemon]
 
 ### [Time Series] 
+
 [Apple_Stock]
+
 [Getting_Financial_Data]
+
 [Investor_Flow_of_Funds_US] 
 
+
 ### [Deleting] 
+
 [Iris] 
+
 [Wine]
+
 
 # Video Solutions
 

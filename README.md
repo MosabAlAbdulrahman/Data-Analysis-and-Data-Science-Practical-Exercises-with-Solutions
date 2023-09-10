@@ -23,86 +23,83 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 |[Grouping](#grouping)							  | [Visualization](#visualization)                |[Indexing](#Indexing)           |
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |[Exporting](#Expoting)|
 
-### [Getting and knowing]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Chipotle] 
+### Getting and knowing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Chipotle
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Occupation]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Occupation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [World Food Facts]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. World Food Facts
 
 
 
-### [Filtering and Sorting]
+### Filtering and Sorting
 
-[Chipotle]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Chipotle
 
-[Euro12]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Euro12
 
-[Fictional Army]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Fictional Army
+
+
 
 ### Grouping
 
-    1- Alcohol Consumption
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Alcohol Consumption
 
-    2- Occupation 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Occupation 
 
-    3- Regiment
-
-
-### [Apply]
-
-[Students Alcohol Consumption]  
-
-[US_Crime_Rates]   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Regiment
 
 
-### [Merge]
+### Apply
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Students Alcohol Consumption
 
-[Auto_MPG]
-
-[Fictitious Names]
-
-[House Market]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. US_Crime_Rates   
 
 
-### [Stats]
+### Merge
 
-[US_Baby_Names]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Auto_MPG
 
-[Wind_Stats]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Fictitious Names
 
-
-### [Visualization]
-
-[Chipotle]
-
-[Titanic Disaster]
-
-[Scores]
-
-[Online Retail]
-
-[Tips]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. House Market
 
 
-### [Creating Series and DataFrames]
 
-[Pokemon]
+### Stats
 
-### [Time Series] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. US_Baby_Names
 
-[Apple_Stock]
-
-[Getting_Financial_Data]
-
-[Investor_Flow_of_Funds_US] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Wind_Stats
 
 
-### [Deleting] 
+### Visualization
 
-[Iris] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Chipotle
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Titanic Disaster
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Scores
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Online Retail
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Tips
 
-[Wine]
+
+
+### Creating Series and DataFrames
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Pokemon
+
+
+
+### Time Series
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Apple_Stock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Getting_Financial_Data
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Investor_Flow_of_Funds_US
+
+
+### Deleting
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Iris
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Wine
 
 
 # Video Solutions
@@ -111,7 +108,4 @@ Video tutorials of data scientists working through the above exercises:
 
 [Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
 

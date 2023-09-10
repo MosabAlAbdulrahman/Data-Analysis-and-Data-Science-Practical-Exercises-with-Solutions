@@ -77,14 +77,19 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 ### Visualization
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Chipotle
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Titanic Disaster
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Scores
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Online Retail
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Tips
 
 
 
 ### Creating Series and DataFrames
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Pokemon
 
 
@@ -92,13 +97,16 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 ### Time Series
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Apple_Stock
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Getting_Financial_Data
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Investor_Flow_of_Funds_US
 
 
 ### Deleting
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Iris
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Wine
 
 
